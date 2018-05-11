@@ -1,0 +1,29 @@
+.comienza1{
+	background-image: url("bg.jpeg");
+	height: 300px;
+}
+.navbar{
+	list-style-type: none;
+	color: grey;
+	float: right;
+	}
+li{
+	float: left;
+	padding-left: 50px;
+
+}
+
+.logo {
+	width: 10%;
+	height: 10%;
+}
+
+.title{
+	color: white;
+	text-align: center;
+}
+
+.escasez{
+	text-align: center;
+	color: white;
+}
